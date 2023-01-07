@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 001D3H 001D4H _TEXT              CODE
+ 001D4H 00307H 00134H _DATA              DATA
+
+Error: Undefined symbol SENDERCHAR in module D:\MENU.ASM
+Error: Undefined symbol RECEIVERCHAR in module D:\MENU.ASM
+Fatal: No program entry point
+

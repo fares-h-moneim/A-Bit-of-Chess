@@ -1,0 +1,21 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00AD1H 00AD2H _TEXT              CODE
+ 00AD2H 0F35FH 0E88EH _DATA              DATA
+
+Error: Undefined symbol STARTX in module D:\DRAW.ASM
+Error: Undefined symbol STARTY in module D:\DRAW.ASM
+Error: Undefined symbol TEAMWON in module D:\DRAW.ASM
+Error: Undefined symbol SIZENAME1 in module D:\DRAW.ASM
+Error: Undefined symbol NAME1 in module D:\DRAW.ASM
+Error: Undefined symbol SIZENAME2 in module D:\DRAW.ASM
+Error: Undefined symbol NAME2 in module D:\DRAW.ASM
+Error: Undefined symbol RECEIVERCHAR in module D:\DRAW.ASM
+Error: Undefined symbol SENDERCHAR in module D:\DRAW.ASM
+Error: Undefined symbol GRIDARRAY in module D:\DRAW.ASM
+Error: Undefined symbol GRIDARRAYTYPE in module D:\DRAW.ASM
+Error: Undefined symbol COLOR in module D:\DRAW.ASM
+Error: Undefined symbol GRIDARRAYTIME in module D:\DRAW.ASM
+Fatal: No program entry point
+

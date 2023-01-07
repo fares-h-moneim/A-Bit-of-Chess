@@ -1,0 +1,29 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 007C0H 007C1H _TEXT              CODE
+ 007D0H 00922H 00153H _DATA              DATA
+ 00930H 00B2FH 00200H STACK              STACK
+
+Error: Undefined symbol DRAWRECT in module D:\MAIN.ASM
+Error: Undefined symbol DRAWPIECEXY in module D:\MAIN.ASM
+Error: Undefined symbol ANIMEENDX in module D:\MAIN.ASM
+Error: Undefined symbol ANIMEENDY in module D:\MAIN.ASM
+Error: Undefined symbol ANIMATEMOVE in module D:\MAIN.ASM
+Error: Undefined symbol DRAWDEADPIECE in module D:\MAIN.ASM
+Error: Undefined symbol CHECKKING in module D:\MAIN.ASM
+Error: Undefined symbol GETLEGALMOVES in module D:\MAIN.ASM
+Error: Undefined symbol WRITERECIEVEDLETTER in module D:\MAIN.ASM
+Error: Undefined symbol CHANGEBACKGROUND in module D:\MAIN.ASM
+Error: Undefined symbol MENU in module D:\MAIN.ASM
+Error: Undefined symbol RESET in module D:\MAIN.ASM
+Error: Undefined symbol RESETDRAW in module D:\MAIN.ASM
+Error: Undefined symbol MENU2 in module D:\MAIN.ASM
+Error: Undefined symbol EXITPROG in module D:\MAIN.ASM
+Error: Undefined symbol PLAYGAME in module D:\MAIN.ASM
+Error: Undefined symbol INTIALIZEBOARD in module D:\MAIN.ASM
+Error: Undefined symbol DRAWTIMELOOP in module D:\MAIN.ASM
+Error: Undefined symbol WRITESENTLETTER in module D:\MAIN.ASM
+Error: Undefined symbol GAMEENDAN in module D:\MAIN.ASM
+Program entry point at 0000:06C6
+

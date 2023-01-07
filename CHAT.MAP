@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00192H 00193H _TEXT              CODE
+ 00194H 00197H 00004H _DATA              DATA
+
+Error: Undefined symbol RECEIVERCHAR in module D:\CHAT.ASM
+Error: Undefined symbol SENDERCHAR in module D:\CHAT.ASM
+Fatal: No program entry point
+
